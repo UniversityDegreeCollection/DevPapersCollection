@@ -4,144 +4,60 @@ The papers below have been used to create a video summarizing the utility of bas
 
 ## Summaries
 
-- A review of masks
-- Face Masks: Much More Than You Wanted To Know 
-- Collection of Mask Research 
-- List of citations
+- [A review of masks](https://docs.google.com/document/d/1ZgzJt6vk1-VLdOVCY17w8ruMroS-1lUD_sSQjquV9TA/edit#heading=h.xx5xghq76xhj)
+- [Face Masks: Much More Than You Wanted To Know](https://slatestarcodex.com/2020/03/23/face-masks-much-more-than-you-wanted-to-know/)
+- [Collection of Mask Research](https://docs.google.com/document/d/1xh0AMQXrdGVpRjBybldSJQW5Sdt78gh2mvABs0Rja-U/edit)
+- [List of citations](https://scite.ai/reports/10.1046/j.1365-2044.2000.01327.x)
 
 ## Papers
 
 See next section for “summary of publications”
 
-1. Professional and Home-Made Face Masks Reduce Exposure to Respiratory Infections among the General Population
-2. Coronavirus can travel twice as far as official ‘safe distance’, study says
-3. Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic? | Disaster Medicine and Public Health Preparedness
-4. What is the efficacy of standard face masks compared to respirator masks in preventing COVID-type respiratory illnesses in primary care staff?
-5. Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
-6. Addressing COVID-19 Face Mask Shortages: evaluating decontamination methods for N95 mask reuse.
-7. Rational use of face masks in the COVID-19 pandemic
-8. Influenza Virus Aerosols in Human Exhaled Breath: Particle Size, Culturability, and Effect of Surgical Masks
-9. Effectiveness of Masks and Respirators Against Respiratory Infections in Healthcare Workers: A Systematic Review and Meta-Analysis
-10. Physical interventions to interrupt or reduce the spread of respiratory viruses
-11. Effectiveness of N95 respirators versus surgical masks against influenza: A systematic review and metaâ•'analysis
-12. Modeling the Effectiveness of Respiratory Protective Devices in Reducing Influenza Outbreak
-13. Simple Respiratory Mask
-14. What Hospitals Should Do to Prepare for an Influenza Pandemic
-15. Flight of the aerosol
-16. The bacterial and viral filtration performance of breathing system filters
-17. Modeling the Effectiveness of Respiratory Protective Devices in Reducing Influenza Outbreak
-18. Do N95 Respirators Provide 95% Protection Level Against Airborne Viruses, and How Adequate Are Surgical Masks? 
-19. N95 Respirators and Surgical Masks
-20. Performance of N95 Respirators: Filtration Efficiency for Airborne Microbial and Inert Particles
-21. Performance of an N95 Filtering Facepiece Particulate Respirator and a Surgical Mask During Human Breathing: Two Pathways for Particle Penetration
-22. Reuse Mask? DIY Mask? | Consumer Council
-23. Editor's Choice: Transocular Entry of Seasonal Influenza–Attenuated Virus Aerosols and the Efficacy of N95 Respirators, Surgical Masks, and Eye Protection in Humans
-24. A quantitative assessment of the efficacy of surgical and N95 masks to filter influenza virus in patients with acute influenza infection.
-25. The bacterial and viral filtration performance of breathing system filters
-26. What Hospitals Should Do to Prepare for an Influenza Pandemic 
-27. Sterilization of disposable face masks by means of dry and steam sterilization processes 
-28. A cluster randomised trial of cloth masks compared with medical masks in healthcare workers
-29. How effective are face masks in operation theatre?  A time frame analysis and recommendations
-30. N95 Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel
-31. The role of facemasks and hand hygiene in the prevention of influenza transmission in households: results from a cluster randomised trial; Berlin, Germany, 2009-2011
-32. Facemasks and hand hygiene to prevent influenza transmission in households: a cluster randomized trial.
-33. Mask use, hand hygiene, and seasonal influenza-like illness among young adults: a randomized intervention trial.
+1. [Professional and Home-Made Face Masks Reduce Exposure to Respiratory Infections among the General Population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2440799/)
+2. [Coronavirus can travel twice as far as official ‘safe distance’, study says](https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay)
+3. [Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic? | Disaster Medicine and Public Health Preparedness](https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness/article/testing-the-efficacy-of-homemade-masks-would-they-protect-in-an-influenza-pandemic/0921A05A69A9419C862FA2F35F819D55)
+4. [What is the efficacy of standard face masks compared to respirator masks in preventing COVID-type respiratory illnesses in primary care staff?](https://www.cebm.net/what-is-the-efficacy-of-standard-face-masks-compared-to-respirator-masks-in-preventing-covid-type-respiratory-illnesses-in-primary-care-staff/)
+5. [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)
+6. [Addressing COVID-19 Face Mask Shortages: evaluating decontamination methods for N95 mask reuse.](https://stanfordmedicine.app.box.com/v/covid19-PPE-1-1)
+7. [Rational use of face masks in the COVID-19 pandemic](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30134-X/fulltext)
+8. [Influenza Virus Aerosols in Human Exhaled Breath: Particle Size, Culturability, and Effect of Surgical Masks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3591312/)
+9. [Effectiveness of Masks and Respirators Against Respiratory Infections in Healthcare Workers: A Systematic Review and Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/29140516/)
+10. [Physical interventions to interrupt or reduce the spread of respiratory viruses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6993921/)
+11. [Effectiveness of N95 respirators versus surgical masks against influenza: A systematic review and metaâ•'analysis](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jebm.12381)
+12. [Modeling the Effectiveness of Respiratory Protective Devices in Reducing Influenza Outbreak](https://onlinelibrary.wiley.com/doi/full/10.1111/risa.13181)
+13. [Simple Respiratory Mask](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3373043/)
+14. [What Hospitals Should Do to Prepare for an Influenza Pandemic](https://www.liebertpub.com/doi/pdfplus/10.1089/bsp.2006.4.397)
+15. [Flight of the aerosol](https://virologydownunder.com/flight-of-the-aerosol/?share=twitter&nb=1)
+16. [The bacterial and viral filtration performance of breathing system filters](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2044.2000.01327.x?sid=nlm%3Apubmed)
+17. [Modeling the Effectiveness of Respiratory Protective Devices in Reducing Influenza Outbreak](https://pubmed.ncbi.nlm.nih.gov/30229968/)
+18. [Do N95 Respirators Provide 95% Protection Level Against Airborne Viruses, and How Adequate Are Surgical Masks?](https://pubmed.ncbi.nlm.nih.gov/16490606/)
+19. [N95 Respirators and Surgical Masks](https://blogs.cdc.gov/niosh-science-blog/2009/10/14/n95/)
+20. [Performance of N95 Respirators: Filtration Efficiency for Airborne Microbial and Inert Particles](https://pubmed.ncbi.nlm.nih.gov/9487666/)
+21. [Performance of an N95 Filtering Facepiece Particulate Respirator and a Surgical Mask During Human Breathing: Two Pathways for Particle Penetration](https://pubmed.ncbi.nlm.nih.gov/19598054/)
+22. [Reuse Mask? DIY Mask? | Consumer Council](https://www.consumer.org.hk/ws_en/news/2020/covid-19-diymasks)
+23. [Editor's Choice: Transocular Entry of Seasonal Influenza–Attenuated Virus Aerosols and the Efficacy of N95 Respirators, Surgical Masks, and Eye Protection in Humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3164472/)
+24. [A quantitative assessment of the efficacy of surgical and N95 masks to filter influenza virus in patients with acute influenza infection.](https://www.ncbi.nlm.nih.gov/pubmed/19522650)
+25. [The bacterial and viral filtration performance of breathing system filters](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2044.2000.01327.x?sid=nlm%3Apubmed)
+26. [What Hospitals Should Do to Prepare for an Influenza Pandemic](https://www.liebertpub.com/doi/pdfplus/10.1089/bsp.2006.4.397)
+27. [Sterilization of disposable face masks by means of dry and steam sterilization processes](https://repository.tudelft.nl/islandora/object/uuid%3Af048c853-7e1d-4715-b73d-3b506b274a30)
+28. [A cluster randomised trial of cloth masks compared with medical masks in healthcare workers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4420971/)
+29. [How effective are face masks in operation theatre?  A time frame analysis and recommendations](https://www.ijic.info/article/view/10788/7862)
+30. [N95 Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel](https://jamanetwork.com/journals/jama/article-abstract/2749214)
+31. [The role of facemasks and hand hygiene in the prevention of influenza transmission in households: results from a cluster randomised trial; Berlin, Germany, 2009-2011](https://www.ncbi.nlm.nih.gov/pubmed/22280120)
+32. [Facemasks and hand hygiene to prevent influenza transmission in households: a cluster randomized trial.](https://www.ncbi.nlm.nih.gov/pubmed/19652172)
+33. [Mask use, hand hygiene, and seasonal influenza-like illness among young adults: a randomized intervention trial.](https://www.ncbi.nlm.nih.gov/pubmed/20088690)
 
 ## Summary of Publications
 
 |#|Link|Title| | |Notes|
 |--|---|---|--|--|----|
 |1a|https://pubmed.ncbi.nlm.nih.gov/30229968/ //https://onlinelibrary.wiley.com/doi/full/10.1111/risa.13181|Modeling the Effectiveness of Respiratory Protective Devices in Reducing Influenza Outbreak|2018|n=1000|-- a 50% compliance in donning the device resulted in a significant (at least 50% prevalence and 20% cumulative incidence) reduction in risk for fitted and unfitted N95 respirators, high‐filtration surgical masks, and both low‐filtration and high‐filtration pediatric masks. --An 80% compliance rate essentially eliminated the influenza outbreak. --Outward protection (mask wearing by a mechanical head) was less effective than inward protection (mask wearing by healthy volunteers)|
-
-
-1b
-
-
-
-
-2018
-Mask:  FF2, N95, homemade (tea cloth)
-n=22 adults
-
-(p=0.4)
-
-
-2
-https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay
-Coronavirus can travel twice as far as official ‘safe distance’ and stay in air for 30 minutes, Chinese study finds
-
-
-Mar 2020
-
-
-
-
-
-none of those passengers in the two buses who wore face masks were infected.
-3
-https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic
-
-
-Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?
-
-
-2013
-
-Masks: 
--- surgical
--- homemade (cotton tshirts)
--- no mask
-n=21
-
--- (p=.002)
--- (p=.007)
---surgical mask was 3 times more effective in blocking transmission than the homemade mask
-
---homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection. 
-
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3591312/
-
-
-Influenza Virus Aerosols in Human Exhaled Breath: Particle Size, Culturability, and Effect of Surgical Masks
-
-
-2013
-
-Masks: 
--- surgical
--- no mask
-n=89 adults
-
-p = 0.003
---11% vs 43% efficacy of masks (no mask vs mask)
-
-
-https://www.nejm.org/doi/full/10.1056/NEJMc2004973
-
-
-Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
-
-
-Mar 2020
-
-
-
-
-
-
-https://stanfordmedicine.app.box.com/v/covid19-PPE-1-1
-
-
-Addressing COVID-19 Face Mask Shortages
-
-
-
-Mar 2020
-
-
---DO NOT use alcohol and chlorine-based disinfection methods.These will remove
-the static charge in the microfibers in N95 facial masks, reducing filtration efficiency. In addition, chlorine also retains gas after de-contamination and these fumes may be harmful.
+|1b| |   |2018 Mask:  FF2, N95, homemade (tea cloth)|n=22 adults (p=0.4)|  |
+|2|https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay|Coronavirus can travel twice as far as official ‘safe distance’ and stay in air for 30 minutes, Chinese study finds|Mar 2020||none of those passengers in the two buses who wore face masks were infected.|
+|3|https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic|Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?|2013 Masks: -- surgical -- homemade (cotton tshirts) -- no mask| n=21 -- (p=.002) -- (p=.007)|--surgical mask was 3 times more effective in blocking transmission than the homemade mask --homemade mask should only be considered as a last resort to prevent droplet transmission from infected individuals, but it would be better than no protection. |
+||https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3591312/|Influenza Virus Aerosols in Human Exhaled Breath: Particle Size, Culturability, and Effect of Surgical Masks|2013 Masks: -- surgical -- no mask|n=89 adults p = 0.003|--11% vs 43% efficacy of masks (no mask vs mask)|
+||https://www.nejm.org/doi/full/10.1056/NEJMc2004973|Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1|Mar 2020|||
+||https://stanfordmedicine.app.box.com/v/covid19-PPE-1-1|Addressing COVID-19 Face Mask Shortages|Mar 2020||--DO NOT use alcohol and chlorine-based disinfection methods.These will remove the static charge in the microfibers in N95 facial masks, reducing filtration efficiency. In addition, chlorine also retains gas after de-contamination and these fumes may be harmful.|
 
 
 
