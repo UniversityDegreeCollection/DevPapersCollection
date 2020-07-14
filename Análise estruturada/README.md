@@ -59,4 +59,6 @@ O modelo comportamental descreve as acções que o sistema deve realizar para re
 
 [WIKI](https://pt.wikipedia.org/wiki/An%C3%A1lise_estruturada)
 
+[strucanalysis WIKI](https://web.archive.org/web/20070318150053/http://www.yourdon.com/strucanalysis/wiki/index.php?title=Table_of_Contents)
+
 
